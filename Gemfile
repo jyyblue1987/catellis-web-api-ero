@@ -14,7 +14,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'paranoia', '~> 2.2'
 
 # Use Puma as the app server
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 
 # Environment variable and config loading
 gem 'dotenv-rails', :require => 'dotenv/rails-now', :groups => [:development, :test]
